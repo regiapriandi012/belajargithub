@@ -33,5 +33,6 @@ def play_RPS():
 
 play_RPS()
 
+#ini adalah program pythin pertama saya
 
 
